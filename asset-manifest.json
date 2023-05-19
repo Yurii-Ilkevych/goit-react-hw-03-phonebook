@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Yurii-Ilkevych//static/css/main.7acaea2f.css",
-    "main.js": "/Yurii-Ilkevych//static/js/main.07d3183d.js",
+    "main.css": "/Yurii-Ilkevych//static/css/main.e087f207.css",
+    "main.js": "/Yurii-Ilkevych//static/js/main.81f48281.js",
     "index.html": "/Yurii-Ilkevych//index.html",
-    "main.7acaea2f.css.map": "/Yurii-Ilkevych//static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Yurii-Ilkevych//static/js/main.07d3183d.js.map"
+    "main.e087f207.css.map": "/Yurii-Ilkevych//static/css/main.e087f207.css.map",
+    "main.81f48281.js.map": "/Yurii-Ilkevych//static/js/main.81f48281.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e087f207.css",
+    "static/js/main.81f48281.js"
   ]
 }
